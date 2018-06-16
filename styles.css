@@ -8,6 +8,7 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
     grid-gap: 10px;
+    min-height: 40px;
   }
   
   .stage {
